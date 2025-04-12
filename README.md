@@ -10,9 +10,6 @@ mini extension for python logging module
 * Creation of your own tags with any logic
 * Preconfigured default styles to simple start
 
-### Install
-Just `pip install extlog`.
-
 ### Available tags
 **Reset:**
 
